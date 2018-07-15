@@ -6,13 +6,13 @@ This code uses OpenVR and EGM for real-time remote control of an ABB 120 robot. 
 
 Note: the code is tested in Windows OS with VS 2015 64x
 
-1- Install SteamVR
+1 - Install SteamVR
 
 2 - Compile and install Eigen at "C:\Eigen"
 
-3 - Install OpenVR at "C:\openvr"
+3 - Compile and install OpenVR at "C:\openvr"
 
-4 - Install google protobuf at "C:\protobuf-3.4.1"
+4 - Compile and install google protobuf at "C:\protobuf-3.4.1"
 
 3 - Edit the "udp_connection_name" in the RAPID module "EGM_connection.mod".
 
